@@ -1,5 +1,3 @@
-[Ar7Logo](https://i.imgur.com/dwb7Fwo.png)
-
 - 👋 Hi, I’m @AravinthSS07
 - 📚 Am currently in higher secondary school
 - 👨🏼‍💻 I code mainly in Python, sometimes java but only for making Minecraft plugins 😅
