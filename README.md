@@ -2,6 +2,7 @@
 - 📚 Am currently in higher secondary school
 - 👨🏼‍💻 I code mainly in Python, sometimes java but only for making Minecraft plugins 😅
 - 🎦 Check my [Youtube](https://ar07.ml/youtube) and [Twitch](https://ar07.ml/twitch)
+- ✉ Email: aravinthss@ar07.ml
 - 🌏 My website ➡ https://www.ar07.ml
 
 <!---
