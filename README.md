@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @AravinthSS07 aka Ar7 aka ar7_the_dumb_programmer
-- 📚 Am currently in higher secondary school
+- 👋 Hi, I’m @AravinthSS07 aka Ar7 aka notAr7
+- 💻 I make really random programs without any reason
+- 🎶 Also make some [music](https://ar07.ml/music) for fun > https://ar07.ml/music
 - 👨🏼‍💻 I code mainly in Python, sometimes java but only for making Minecraft plugins 😅
 - 🎦 Check my [Youtube](https://ar07.ml/youtube) and [Twitch](https://ar07.ml/twitch)
 - ✉ Email: aravinthss@ar07.ml
