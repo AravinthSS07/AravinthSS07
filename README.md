@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AravinthSS07 aka Ar7 aka notAr7
+- 👋 Hi, I’m @AravinthSS07 aka Ar7, notAr7
 - 💻 I make really random programs without any reason
 - 🎶 Also make some music for fun > https://ar07.ml/music
 - 👨🏼‍💻 I code mainly in Python, sometimes java but only for making Minecraft plugins 😅
