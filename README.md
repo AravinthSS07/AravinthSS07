@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AravinthSS07 aka Ar7, notAr7
+- 👋 Hi, I’m @AravinthSS07
 - ✉ Email: aravinthss@ar07.ml
 - 🌏 Website: https://www.ar07.ml
 
