@@ -1,7 +1,8 @@
 - Hi, I’m @AravinthSS07
 - Email: aravinthss@ar07.ml
-- Websites: https://www.ar07.ml; https://aravinthss07.ar07.ml
+- Websites: https://www.ar07.ml
 - Languages Known: Python, Java, C#
+- Cloud Hosting used: Heroku, Github Pages, Netlify, Firebase
 - Minecraft Plugin Developer
 
 <!---
