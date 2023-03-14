@@ -3,9 +3,10 @@ I'm Aravinth SS (@AravinthSS07)<br>
 I'm a computer enthusiast 🖥️<br>
 I work on really weird projects<br>
 Computer Languages: Python 🐍, Java 🍵, C#<br>
-Links
+<!---Links
 - Email-ID: https://ar07.ml/mail
 - Google Developer Profile(never used this thing tho): https://g.dev/AravinthSS07
+--->
 
 <!---
 AravinthSS07/AravinthSS07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
