@@ -1,5 +1,5 @@
 <h1 align=center>Hi I'm Aravinth SS</h1>
-<h3 align=center>I'm a tech-savvy developer with expertise in Python, Unity, SQL and Java. <br> Passionate about building creative and functional applications.</h3>
+<h3 align=center>I'm a tech-savvy developer with expertise in Python, Unity, SQL and Java. <br> Passionate about building creative and functional applications, and Indie Games</h3>
 
 <!--
 <h3>Currently Working on</h3>
