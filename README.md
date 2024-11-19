@@ -31,7 +31,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
+    <!--
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AravinthSS07&show_icons=true&theme=highcontrast&hide_border=false&locale=en&layout=compact" alt="AravinthSS07 top languages" />
+    -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AravinthSS07&theme=highcontrast&hide_border=false" alt="AravinthSS07 streak stats" />
 </p>
 
