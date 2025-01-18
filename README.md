@@ -3,7 +3,7 @@
 <h3 align="center">A Tech Enthusiast and a developer with experience in Python and Unity</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AravinthSS07&label=Profile%20Views&color=0e75b6&style=flat" alt="ShuvayuSarkar" />
+   <!-- <img src="https://komarev.com/ghpvc/?username=AravinthSS07&label=Profile%20Views&color=0e75b6&style=flat" alt="AravinthSS07" /> -->
     <img src="https://img.shields.io/badge/Focused-Python%20Development-blue" alt="Focused on Flutter Development" />
     <img src="https://img.shields.io/badge/Focused-Unity%20-blue" alt="Focused on Flutter Development" />
     <img src="https://img.shields.io/badge/Exploring-MERN Stack-brightgreen" alt="Exploring Node.js" />
