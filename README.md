@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 - 🌱 Building apps and games on  **Python**, **Java**, **React** and **Unity**.
 - 💻 I'm a **Game Developer** and **Tech enthusiast**.
-- 📫 Reach me at: **[mail@aravinthss07.me](mailto:mail@aravinthss07.me)** or **[mail@aravinthss07.tech](mailto:mail@aravinthss07.tech)**.
+- 📫 Reach me at: **[aravinthssivakumar@outlook.com](mailto:aravinthssivakumar@outlook.com)**.
 
 ### 🔗 Connect with Me via
 <p align="left">
